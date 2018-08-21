@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OldMapDemo</string>
+    <string name="old_map">历史地图</string>
+    <string name="weixing">卫星地图</string>
+    <string name="buildings">Buildings</string>
+    <string name="maptext">MapText</string>
+</resources>
